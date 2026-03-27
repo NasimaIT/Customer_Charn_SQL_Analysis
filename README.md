@@ -1,7 +1,7 @@
 # 📊 Customer Churn Analysis using SQL
 
 ## 🔍 Overview
-This project analyzes customer churn using SQL to understand churn rate, customer distribution, and segment-level behavior. The goal is to generate insights that support customer retention strategies.
+This project analyzes customer churn patterns and identifies high-risk segments using SQL to understand churn rate, customer distribution, and segment-level behavior. The goal is to generate insights that support customer retention strategies.
 
 ## 🛠 Tools Used
 - SQL
